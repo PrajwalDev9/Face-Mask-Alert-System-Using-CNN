@@ -14,9 +14,7 @@ Use object detection techniques to tackle the issue of face mask detection and p
 #### Proposed Solution:
 To address the issue of identifying mask-wearing behavior in real-time, an automated face mask detection system using machine learning and the YOLO algorithm has been proposed. The YOLO algorithm was chosen as it can perform object detection in real-time, making it an ideal candidate for detecting mask-wearing behavior in live video streams. In addition, an integrated API was incorporated into the system to send alerts to system administrators whenever the system detects individuals who are not wearing masks or wearing them incorrectly.The system can be implemented in various public and private sectors such as shopping malls, schools, airports, and train and bus stations to help ensure the safety of individuals in these settings
 
-
-
-![image](https://github.com/PrajwalDev9/Face-Mask-Alert-System-Using-CNN/assets/73089657/1a71042e-51ad-48b4-8c2a-f6958fe61e5a)
+![image](https://github.com/PrajwalDev9/Face-Mask-Alert-System-Using-CNN/assets/73089657/7b828632-7158-422e-8b4f-98a799bb3f35)
 
 #### Tech Stack Used:
 1) YOLO Algorithm
